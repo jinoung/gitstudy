@@ -1,4 +1,4 @@
 import os
 from flask import Flask
-import torch
+import torch.nn as nn
 
